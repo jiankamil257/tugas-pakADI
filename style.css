@@ -1,0 +1,14 @@
+#home .container-fluid{
+    height: 500px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ81McXyFadFluq18GASetIhA0rvU538tzG5g&usqp=CAU");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.footer{
+    background-color: rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    width: 100%;
+    height: 50px;
+    text-align: center;
+}
